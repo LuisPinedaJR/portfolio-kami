@@ -6,7 +6,6 @@ short-description: Bloc Jams is a the front-end of a music player
  #BlocFlix is a Netflix replica for finding the best movies and watching them online.
 
 ---
-
 {:.center}
 ![]({{ site.baseurl }}/img/blocjams.png)
 
