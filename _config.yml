@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "https://luispinedajr.github.io" # the subpath of your site, e.g. /blog/ (optional)
-url: "https://luispinedajr.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
+url: "https://luispinedajr.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
