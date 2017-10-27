@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "http://luispinedajr.github.io" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://luispinedajr.github.io" # the base hostname & protocol for your site
+baseurl: "https://luispinedajr.github.io" # the subpath of your site, e.g. /blog/ (optional)
+url: "https://luispinedajr.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -27,11 +27,11 @@ theme_settings:
   github: LuisPinedaJR
   google_plus:
   instagram:
-  linkedin:  https://www.linkedin.com/in/luis-pineda-30204678/ # Full URL
+  linkedin:  "https://www.linkedin.com/in/luis-pineda-30204678/" # Full URL
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  https://stackexchange.com/users/11236719/luis-pineda-jr # Full URL
+  stack_exchange:  "https://stackexchange.com/users/11236719/luis-pineda-jr" # Full URL
   steam:
   tumblr:
   twitter:
