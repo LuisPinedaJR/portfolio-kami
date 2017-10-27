@@ -18,20 +18,20 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: "Lspnd00@gmail.com"
+  email_address: Lspnd00@gmail.com
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "LuisPinedaJR"
+  github: LuisPinedaJR
   google_plus:
-  instagram: 
-  linkedin:  "https://www.linkedin.com/in/luis-pineda-30204678/" # Full URL
+  instagram:
+  linkedin:  https://www.linkedin.com/in/luis-pineda-30204678/ # Full URL
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  "https://stackexchange.com/users/11236719/luis-pineda-jr" # Full URL
+  stack_exchange:  https://stackexchange.com/users/11236719/luis-pineda-jr # Full URL
   steam:
   tumblr:
   twitter:
