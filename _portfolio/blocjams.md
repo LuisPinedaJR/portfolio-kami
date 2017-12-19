@@ -2,7 +2,7 @@
 layout: post
 title: Bloc Jams
 thumbnail-path: "img/blocjams.png"
-short-description: Bloc Jams is a the front-end of a music player
+short-description: Bloc Jams is a Front-end online music player
  #BlocFlix is a Netflix replica for finding the best movies and watching them online.
 
 ---
