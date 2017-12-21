@@ -11,7 +11,7 @@ short-description: Bloc Jams is a Front-end online music player
 
 ## Explanation
 
-Bloc Jams is the front-end design of a music player. It was my first attempt at creating something putting together Javascript, HTML, and CSS. It includes a full functioning volume, track position controls and track selections. It also includes click and mouse-over/ hover functions.
+Bloc Jams is the front-end design of a music player. It was my first attempt at creating something using  Javascript, Jquery, AngularJS. It includes a full functioning volume, track position controls and track selections. It also includes click and mouse-over/ hover functions. This is project stated out as JavaScrip but has been refactored to Jquery then again refactored to AngularJS.
 
 ## Problem
 
